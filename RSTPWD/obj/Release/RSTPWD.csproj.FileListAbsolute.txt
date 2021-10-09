@@ -1,0 +1,9 @@
+C:\Users\pedro\Desktop\RSTPWD\bin\Release\RSTPWD.exe
+C:\Users\pedro\Desktop\RSTPWD\bin\Release\RSTPWD.pdb
+C:\Users\pedro\Desktop\RSTPWD\obj\Release\RSTPWD.csproj.AssemblyReference.cache
+C:\Users\pedro\Desktop\RSTPWD\obj\Release\RSTPWD.frmMain.resources
+C:\Users\pedro\Desktop\RSTPWD\obj\Release\RSTPWD.Properties.Resources.resources
+C:\Users\pedro\Desktop\RSTPWD\obj\Release\RSTPWD.csproj.GenerateResource.cache
+C:\Users\pedro\Desktop\RSTPWD\obj\Release\RSTPWD.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\RSTPWD\obj\Release\RSTPWD.exe
+C:\Users\pedro\Desktop\RSTPWD\obj\Release\RSTPWD.pdb

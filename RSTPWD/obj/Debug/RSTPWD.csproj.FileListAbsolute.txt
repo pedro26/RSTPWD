@@ -1,0 +1,8 @@
+C:\Users\pedro\Desktop\RSTPWD\bin\Debug\RSTPWD.exe
+C:\Users\pedro\Desktop\RSTPWD\bin\Debug\RSTPWD.pdb
+C:\Users\pedro\Desktop\RSTPWD\obj\Debug\RSTPWD.frmMain.resources
+C:\Users\pedro\Desktop\RSTPWD\obj\Debug\RSTPWD.Properties.Resources.resources
+C:\Users\pedro\Desktop\RSTPWD\obj\Debug\RSTPWD.csproj.GenerateResource.cache
+C:\Users\pedro\Desktop\RSTPWD\obj\Debug\RSTPWD.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\RSTPWD\obj\Debug\RSTPWD.exe
+C:\Users\pedro\Desktop\RSTPWD\obj\Debug\RSTPWD.pdb
